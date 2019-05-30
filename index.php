@@ -1,1 +1,1 @@
-<?php header('index.php'); ?>
+<?php header('index.html'); ?>
